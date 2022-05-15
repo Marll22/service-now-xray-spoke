@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_jfrog_xray_spoke.jay_partnerenttest_conn_credential</id>
+        <multiple_connections>false</multiple_connections>
+        <name>jay-partnerenttest-conn-credential</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-29 00:28:13</sys_created_on>
+        <sys_id>edc6989e2f510110d2dbb6a62799b667</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_jfrog_xray_spoke.jay_partnerenttest_conn_credential</sys_name>
+        <sys_package display_value="JFrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JFrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_update_name>sys_alias_edc6989e2f510110d2dbb6a62799b667</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-10 01:56:57</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</application>
+        <file_path/>
+        <instance_id>667105dddb9689504d2bac44d4961987</instance_id>
+        <instance_name>xrayspokestaging</instance_name>
+        <name>sys_alias_edc6989e2f510110d2dbb6a62799b667</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_jfrog_xray_spoke.jay_partnerenttest_conn_credential</id>
+        <multiple_connections>false</multiple_connections>
+        <name>jay-partnerenttest-conn-credential</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-29 00:28:13</sys_created_on>
+        <sys_id>edc6989e2f510110d2dbb6a62799b667</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_jfrog_xray_spoke.jay_partnerenttest_conn_credential</sys_name>
+        <sys_package display_value="JFrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JFrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_update_name>sys_alias_edc6989e2f510110d2dbb6a62799b667</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-10 01:56:57</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>]]></payload>
+        <payload_hash>833751975</payload_hash>
+        <record_name>x_jfrog_xray_spoke.jay_partnerenttest_conn_credential</record_name>
+        <reverted_from/>
+        <source>25ecdc4c97e3c510d872f9cfe153afd0</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>mritunjayk</sys_created_by>
+        <sys_created_on>2022-05-13 21:29:05</sys_created_on>
+        <sys_id>a5ec108c97e3c510d872f9cfe153af05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180bf5340510000001</sys_recorded_at>
+        <sys_updated_by>mritunjayk</sys_updated_by>
+        <sys_updated_on>2022-05-13 21:29:05</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>25ec108c31e3c510ab9a0f45a7c6c205</update_guid>
+        <update_guid_history>25ec108c31e3c510ab9a0f45a7c6c205:0,cbf15993a45345104b4a6e37eae6da4b:1746903099,a4e4a765fe9b0110954b7cc0b7b37db4:339073583</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mritunjayk</sys_created_by>
+        <sys_created_on>2022-05-13 21:31:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>c2a1e2787f21460498ea12955cf83210</sys_id>
+        <sys_metadata>edc6989e2f510110d2dbb6a62799b667</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_jfrog_xray_spoke.jay_partnerenttest_conn_credential</sys_name>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_scope_delete display_value="">03017db5537a41e08009141b04113031</sys_scope_delete>
+        <sys_update_name>sys_alias_edc6989e2f510110d2dbb6a62799b667</sys_update_name>
+        <sys_update_version display_value="sys_alias_edc6989e2f510110d2dbb6a62799b667">a5ec108c97e3c510d872f9cfe153af05</sys_update_version>
+        <sys_updated_by>mritunjayk</sys_updated_by>
+        <sys_updated_on>2022-05-13 21:31:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
