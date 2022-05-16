@@ -29,11 +29,11 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>JFrog associate Webhook to Xray Policy and Rule</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_9f9800fa874e81109bc4ddb83cbb358e</sys_update_name>
-        <sys_updated_by>mritunjayk</sys_updated_by>
+        <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-13 21:29:57</sys_updated_on>
         <system_level>false</system_level>
         <type/>
@@ -476,7 +476,7 @@
         <sys_id>86989876878e81109bc4ddb83cbb3591</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Credential Value</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_2d989876878e81109bc4ddb83cbb350d_sn_auth_token_en</sys_update_name>
@@ -1226,7 +1226,7 @@
         <sys_id>ee60d032878e81109bc4ddb83cbb355c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>policy_update_model</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_d660d032878e81109bc4ddb83cbb3527_policy_update_model_en</sys_update_name>
@@ -1914,7 +1914,7 @@
         <sys_id>19515c32878e81109bc4ddb83cbb351b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>policy-type</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_9f9800fa874e81109bc4ddb83cbb358e_policy_type_en</sys_update_name>
@@ -1937,7 +1937,7 @@
         <sys_id>24cdc4be874e81109bc4ddb83cbb3598</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>webhook-name</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_9f9800fa874e81109bc4ddb83cbb358e_webhook_name_en</sys_update_name>
@@ -1960,7 +1960,7 @@
         <sys_id>6ccdc4be874e81109bc4ddb83cbb3592</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>rule-name</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_9f9800fa874e81109bc4ddb83cbb358e_rule_name_en</sys_update_name>
@@ -1983,7 +1983,7 @@
         <sys_id>8bb450f2878e81109bc4ddb83cbb3553</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>rule-min-severity</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_9f9800fa874e81109bc4ddb83cbb358e_rule_min_severity_en</sys_update_name>
@@ -2006,7 +2006,7 @@
         <sys_id>94cdc4be874e81109bc4ddb83cbb358d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>policy-name</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_9f9800fa874e81109bc4ddb83cbb358e_policy_name_en</sys_update_name>
@@ -2029,7 +2029,7 @@
         <sys_id>c3b450f2878e81109bc4ddb83cbb354e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>rule-priority</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_9f9800fa874e81109bc4ddb83cbb358e_rule_priority_en</sys_update_name>
@@ -2053,7 +2053,7 @@
         <sys_id>ba60d032878e81109bc4ddb83cbb3575</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Don't Treat as Error</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_9f9800fa874e81109bc4ddb83cbb358e___dont_treat_as_error___en</sys_update_name>
@@ -2076,7 +2076,7 @@
         <sys_id>be60d032878e81109bc4ddb83cbb356c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Action Status</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_9f9800fa874e81109bc4ddb83cbb358e___action_status___en</sys_update_name>
@@ -2575,7 +2575,7 @@
         <sys_id>264914b6878e81109bc4ddb83cbb3534</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Credential Value</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_1a4914b6878e81109bc4ddb83cbb3528_sn_auth_token_en</sys_update_name>
@@ -3325,7 +3325,7 @@
         <sys_id>9e4914b6878e81109bc4ddb83cbb351e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>policy_update_model</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_3949d0b6878e81109bc4ddb83cbb35db_policy_update_model_en</sys_update_name>
@@ -4013,7 +4013,7 @@
         <sys_id>4549d0b6878e81109bc4ddb83cbb3541</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>policy-name</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_3849d0b6878e81109bc4ddb83cbb3539_policy_name_en</sys_update_name>
@@ -4036,7 +4036,7 @@
         <sys_id>5149d0b6878e81109bc4ddb83cbb354c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>rule-name</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_3849d0b6878e81109bc4ddb83cbb3539_rule_name_en</sys_update_name>
@@ -4059,7 +4059,7 @@
         <sys_id>7949d0b6878e81109bc4ddb83cbb35d8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>webhook-name</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_3849d0b6878e81109bc4ddb83cbb3539_webhook_name_en</sys_update_name>
@@ -4082,7 +4082,7 @@
         <sys_id>c949d0b6878e81109bc4ddb83cbb3546</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>policy-type</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_3849d0b6878e81109bc4ddb83cbb3539_policy_type_en</sys_update_name>
@@ -4105,7 +4105,7 @@
         <sys_id>d549d0b6878e81109bc4ddb83cbb3551</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>rule-priority</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_3849d0b6878e81109bc4ddb83cbb3539_rule_priority_en</sys_update_name>
@@ -4128,7 +4128,7 @@
         <sys_id>f149d0b6878e81109bc4ddb83cbb35d3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>rule-min-severity</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_input_3849d0b6878e81109bc4ddb83cbb3539_rule_min_severity_en</sys_update_name>
@@ -4152,7 +4152,7 @@
         <sys_id>a24914b6878e81109bc4ddb83cbb3556</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Action Status</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_3849d0b6878e81109bc4ddb83cbb3539___action_status___en</sys_update_name>
@@ -4175,7 +4175,7 @@
         <sys_id>b64914b6878e81109bc4ddb83cbb355e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Don't Treat as Error</sys_name>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_documentation_var__m_sys_hub_action_output_3849d0b6878e81109bc4ddb83cbb3539___dont_treat_as_error___en</sys_update_name>

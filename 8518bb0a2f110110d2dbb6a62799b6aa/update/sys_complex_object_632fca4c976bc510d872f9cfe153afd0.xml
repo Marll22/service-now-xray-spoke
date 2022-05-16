@@ -6,7 +6,7 @@
         <scope_name>8518bb0a2f110110d2dbb6a62799b6aa</scope_name>
         <serialized_content>{"FlowDesigner:FDaf2fca4c166bc5108d8a6690b9993fcf":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FDaf2fca4c166bc5108d8a6690b9993fcf.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"8a852a0c-b465-40df-8c23-3e1e965b8bca\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDaf2fca4c166bc5108d8a6690b9993fcf\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
         <sys_class_name>sys_complex_object</sys_class_name>
-        <sys_created_by>mritunjayk</sys_created_by>
+        <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-05-14 05:48:23</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
@@ -14,11 +14,11 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>FDaf2fca4c166bc5108d8a6690b9993fcf</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_complex_object_632fca4c976bc510d872f9cfe153afd0</sys_update_name>
-        <sys_updated_by>mritunjayk</sys_updated_by>
+        <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:48:23</sys_updated_on>
         <type>complex_object_schema</type>
     </sys_complex_object>
