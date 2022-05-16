@@ -29,7 +29,7 @@ Leave a value empty to remove a key.</description>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7c358280976bc510d872f9cfe153afa9</sys_id>
-        <sys_mod_count>20</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>JFrog Artifactory Update Item Properties</sys_name>
         <sys_overrides/>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
@@ -37,7 +37,7 @@ Leave a value empty to remove a key.</description>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_7c358280976bc510d872f9cfe153afa9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-14 20:43:03</sys_updated_on>
+        <sys_updated_on>2022-05-16 15:23:26</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -155,18 +155,6 @@ Leave a value empty to remove a key.</description>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=24f64e04976bc510d872f9cfe153af06"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>application</field>
-        <id>24f64e04976bc510d872f9cfe153af06</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-05-14 05:12:25</sys_created_on>
-        <sys_id>6cf64e04976bc510d872f9cfe153af24</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-14 05:12:25</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>props</field>
         <id>24f64e04976bc510d872f9cfe153af06</id>
         <sys_created_by>admin</sys_created_by>
@@ -188,18 +176,6 @@ Leave a value empty to remove a key.</description>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 06:12:52</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_24f64e04976bc510d872f9cfe153af06</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>24f64e04976bc510d872f9cfe153af06</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-05-14 05:12:25</sys_created_on>
-        <sys_id>20f64e04976bc510d872f9cfe153af25</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-14 05:12:25</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
         <value/>
     </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_step_ext_output_24f64e04976bc510d872f9cfe153af06^id=24f64e04976bc510d872f9cfe153af06"/>
@@ -544,11 +520,11 @@ Leave a value empty to remove a key.</description>
         <sys_created_on>2022-05-14 05:12:25</sys_created_on>
         <sys_id>20f64e04976bc510d872f9cfe153af21</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>recursiveint</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_24f64e04976bc510d872f9cfe153af06_recursiveint_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:12:25</sys_updated_on>
         <url/>
@@ -567,11 +543,11 @@ Leave a value empty to remove a key.</description>
         <sys_created_on>2022-05-14 05:12:25</sys_created_on>
         <sys_id>a4f64e04976bc510d872f9cfe153af1b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>propstr</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_24f64e04976bc510d872f9cfe153af06_propstr_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:12:25</sys_updated_on>
         <url/>
@@ -982,11 +958,11 @@ Leave a value empty to remove a key.</description>
         <sys_created_on>2022-05-14 05:12:25</sys_created_on>
         <sys_id>bcf64e04976bc510d872f9cfe153af48</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Credential Value</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_e8f64e04976bc510d872f9cfe153af28_sn_auth_token_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:12:25</sys_updated_on>
         <url/>
@@ -1427,11 +1403,11 @@ Leave a value empty to remove a key.</description>
         <sys_created_on>2022-05-14 05:12:25</sys_created_on>
         <sys_id>24f60e04976bc510d872f9cfe153affa</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Properties</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_7c358280976bc510d872f9cfe153afa9_properties_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:12:25</sys_updated_on>
         <url/>
@@ -1450,11 +1426,11 @@ Leave a value empty to remove a key.</description>
         <sys_created_on>2022-05-14 05:12:25</sys_created_on>
         <sys_id>28f60e04976bc510d872f9cfe153afee</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Repository Key</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_7c358280976bc510d872f9cfe153afa9_repository_key_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:12:25</sys_updated_on>
         <url/>
@@ -1473,11 +1449,11 @@ Leave a value empty to remove a key.</description>
         <sys_created_on>2022-05-14 05:12:25</sys_created_on>
         <sys_id>e0f60e04976bc510d872f9cfe153aff4</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Item Path</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_7c358280976bc510d872f9cfe153afa9_item_path_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:12:25</sys_updated_on>
         <url/>
@@ -1497,11 +1473,11 @@ Leave a value empty to remove a key.</description>
         <sys_created_on>2022-05-14 05:16:25</sys_created_on>
         <sys_id>1fd70e44976bc510d872f9cfe153afdd</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Don't Treat as Error</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_7c358280976bc510d872f9cfe153afa9___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:16:25</sys_updated_on>
         <url/>
@@ -1520,11 +1496,11 @@ Leave a value empty to remove a key.</description>
         <sys_created_on>2022-05-14 05:16:25</sys_created_on>
         <sys_id>dfd70e44976bc510d872f9cfe153afd4</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Status</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_7c358280976bc510d872f9cfe153afa9___action_status___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:16:25</sys_updated_on>
         <url/>
@@ -1699,18 +1675,6 @@ Leave a value empty to remove a key.</description>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=b9f78e44976bc510d872f9cfe153affc"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>application</field>
-        <id>b9f78e44976bc510d872f9cfe153affc</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-05-14 05:16:52</sys_created_on>
-        <sys_id>71f7ce44976bc510d872f9cfe153af1a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-14 05:16:52</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>props</field>
         <id>b9f78e44976bc510d872f9cfe153affc</id>
         <sys_created_by>admin</sys_created_by>
@@ -1732,18 +1696,6 @@ Leave a value empty to remove a key.</description>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 06:13:01</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_b9f78e44976bc510d872f9cfe153affc</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>b9f78e44976bc510d872f9cfe153affc</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-05-14 05:16:52</sys_created_on>
-        <sys_id>35f7ce44976bc510d872f9cfe153af1a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-14 05:16:52</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
         <value/>
     </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_step_ext_output_b9f78e44976bc510d872f9cfe153affc^id=b9f78e44976bc510d872f9cfe153affc"/>
@@ -2088,11 +2040,11 @@ Leave a value empty to remove a key.</description>
         <sys_created_on>2022-05-14 05:16:52</sys_created_on>
         <sys_id>3df7ce44976bc510d872f9cfe153af10</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>propstr</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_b9f78e44976bc510d872f9cfe153affc_propstr_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:16:52</sys_updated_on>
         <url/>
@@ -2111,11 +2063,11 @@ Leave a value empty to remove a key.</description>
         <sys_created_on>2022-05-14 05:16:52</sys_created_on>
         <sys_id>b5f7ce44976bc510d872f9cfe153af16</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>recursiveint</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_b9f78e44976bc510d872f9cfe153affc_recursiveint_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:16:52</sys_updated_on>
         <url/>
@@ -2526,11 +2478,11 @@ Leave a value empty to remove a key.</description>
         <sys_created_on>2022-05-14 05:16:52</sys_created_on>
         <sys_id>7df7ce44976bc510d872f9cfe153af29</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Credential Value</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_fdf7ce44976bc510d872f9cfe153af1d_sn_auth_token_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:16:52</sys_updated_on>
         <url/>
@@ -2971,11 +2923,11 @@ Leave a value empty to remove a key.</description>
         <sys_created_on>2022-05-14 05:16:52</sys_created_on>
         <sys_id>79f78e44976bc510d872f9cfe153afde</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Item Path</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_b9f78e44976bc510d872f9cfe153afc2_item_path_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:16:52</sys_updated_on>
         <url/>
@@ -2994,11 +2946,11 @@ Leave a value empty to remove a key.</description>
         <sys_created_on>2022-05-14 05:16:52</sys_created_on>
         <sys_id>79f78e44976bc510d872f9cfe153afe4</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Properties</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_b9f78e44976bc510d872f9cfe153afc2_properties_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:16:52</sys_updated_on>
         <url/>
@@ -3017,11 +2969,11 @@ Leave a value empty to remove a key.</description>
         <sys_created_on>2022-05-14 05:16:52</sys_created_on>
         <sys_id>fdf78e44976bc510d872f9cfe153afd8</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Repository Key</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_b9f78e44976bc510d872f9cfe153afc2_repository_key_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:16:52</sys_updated_on>
         <url/>
@@ -3041,11 +2993,11 @@ Leave a value empty to remove a key.</description>
         <sys_created_on>2022-05-14 05:16:53</sys_created_on>
         <sys_id>02f7ce44976bc510d872f9cfe153af48</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Don't Treat as Error</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b9f78e44976bc510d872f9cfe153afc2___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:16:53</sys_updated_on>
         <url/>
@@ -3064,11 +3016,11 @@ Leave a value empty to remove a key.</description>
         <sys_created_on>2022-05-14 05:16:53</sys_created_on>
         <sys_id>06f7ce44976bc510d872f9cfe153af3f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Status</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b9f78e44976bc510d872f9cfe153afc2___action_status___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 05:16:53</sys_updated_on>
         <url/>

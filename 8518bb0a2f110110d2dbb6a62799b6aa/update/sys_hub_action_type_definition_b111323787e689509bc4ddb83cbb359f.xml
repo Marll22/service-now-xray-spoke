@@ -28,7 +28,7 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b111323787e689509bc4ddb83cbb359f</sys_id>
-        <sys_mod_count>42</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>JFrog Xray Artifact Summary</sys_name>
         <sys_overrides/>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
@@ -36,7 +36,7 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_b111323787e689509bc4ddb83cbb359f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-15 00:57:45</sys_updated_on>
+        <sys_updated_on>2022-05-16 15:23:36</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -254,18 +254,6 @@ This action will only return the artifact summary of ONE artifact.</description>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=53a4e1c497e7c510d872f9cfe153af48"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>application</field>
-        <id>53a4e1c497e7c510d872f9cfe153af48</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-05-14 02:42:42</sys_created_on>
-        <sys_id>aba4e1c497e7c510d872f9cfe153af5c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-14 02:42:42</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>payload</field>
         <id>53a4e1c497e7c510d872f9cfe153af48</id>
         <sys_created_by>admin</sys_created_by>
@@ -276,18 +264,6 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_updated_on>2022-05-14 02:42:42</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_53a4e1c497e7c510d872f9cfe153af48</table>
         <value>{{step[348143f7-d99a-4b62-b8ad-683599adb8cd].response_body}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>53a4e1c497e7c510d872f9cfe153af48</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-05-14 02:42:42</sys_created_on>
-        <sys_id>63a4e1c497e7c510d872f9cfe153af5d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-14 02:42:42</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_step_ext_output_53a4e1c497e7c510d872f9cfe153af48^id=53a4e1c497e7c510d872f9cfe153af48"/>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7^id=53a4e1c497e7c510d872f9cfe153af48"/>
@@ -1036,11 +1012,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:09:10</sys_created_on>
         <sys_id>182b4e5497670910d872f9cfe153af9c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>pkg_type</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_53a4e1c497e7c510d872f9cfe153af48_pkg_type_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:09:10</sys_updated_on>
         <url/>
@@ -1059,11 +1035,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:09:10</sys_created_on>
         <sys_id>1c2b4e5497670910d872f9cfe153afa7</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>num_licenses</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_53a4e1c497e7c510d872f9cfe153af48_num_licenses_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:09:10</sys_updated_on>
         <url/>
@@ -1082,11 +1058,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-14 02:49:07</sys_created_on>
         <sys_id>2126650897e7c510d872f9cfe153af64</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>errors</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_53a4e1c497e7c510d872f9cfe153af48_errors_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 02:49:07</sys_updated_on>
         <url/>
@@ -1105,11 +1081,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:33:34</sys_created_on>
         <sys_id>21b0d29897670910d872f9cfe153af8a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>top_severity</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_53a4e1c497e7c510d872f9cfe153af48_top_severity_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:33:34</sys_updated_on>
         <url/>
@@ -1128,11 +1104,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-14 02:42:42</sys_created_on>
         <sys_id>5ba4e1c497e7c510d872f9cfe153af58</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>artifacts</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_53a4e1c497e7c510d872f9cfe153af48_artifacts_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 02:42:42</sys_updated_on>
         <url/>
@@ -1151,11 +1127,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:09:10</sys_created_on>
         <sys_id>5c2b4e5497670910d872f9cfe153af84</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>artifact_name</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_53a4e1c497e7c510d872f9cfe153af48_artifact_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:09:10</sys_updated_on>
         <url/>
@@ -1174,11 +1150,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:09:10</sys_created_on>
         <sys_id>902b4e5497670910d872f9cfe153afa2</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>num_sec_issues</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_53a4e1c497e7c510d872f9cfe153af48_num_sec_issues_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:09:10</sys_updated_on>
         <url/>
@@ -1197,11 +1173,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:09:10</sys_created_on>
         <sys_id>9c2b4e5497670910d872f9cfe153af96</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>artifact_path</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_53a4e1c497e7c510d872f9cfe153af48_artifact_path_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:09:10</sys_updated_on>
         <url/>
@@ -1626,11 +1602,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-04-06 08:29:41</sys_created_on>
         <sys_id>73a783f3872a89509bc4ddb83cbb359a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Credential Value</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_73a783f3872a89509bc4ddb83cbb3579_sn_auth_token_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-04-06 08:29:41</sys_updated_on>
         <url/>
@@ -1721,18 +1697,6 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_updated_on>2022-04-06 07:50:29</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_d1beb27f87e689509bc4ddb83cbb35a3</table>
         <value>{{action.paths}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>d1beb27f87e689509bc4ddb83cbb35a3</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-05-15 00:54:58</sys_created_on>
-        <sys_id>cb95d29c97670910d872f9cfe153af74</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-15 00:54:58</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_step_ext_output_d1beb27f87e689509bc4ddb83cbb35a3^id=d1beb27f87e689509bc4ddb83cbb35a3"/>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7^id=d1beb27f87e689509bc4ddb83cbb35a3"/>
@@ -1995,11 +1959,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-04-06 07:50:29</sys_created_on>
         <sys_id>a9beb27f87e689509bc4ddb83cbb35bc</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>payload</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_d1beb27f87e689509bc4ddb83cbb35a3_payload_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-04-06 07:50:29</sys_updated_on>
         <url/>
@@ -2940,11 +2904,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-04-06 07:50:28</sys_created_on>
         <sys_id>d1beb27f87e689509bc4ddb83cbb358d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>checksums</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_b111323787e689509bc4ddb83cbb359f_checksums_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-04-06 07:50:28</sys_updated_on>
         <url/>
@@ -2963,11 +2927,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-04-06 07:50:28</sys_created_on>
         <sys_id>ddbeb27f87e689509bc4ddb83cbb3593</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>paths</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_b111323787e689509bc4ddb83cbb359f_paths_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-04-06 07:50:28</sys_updated_on>
         <url/>
@@ -2987,11 +2951,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-04-06 08:29:42</sys_created_on>
         <sys_id>0cb783f3872a89509bc4ddb83cbb35b1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Status</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b111323787e689509bc4ddb83cbb359f___action_status___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-04-06 08:29:42</sys_updated_on>
         <url/>
@@ -3010,11 +2974,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:41:12</sys_created_on>
         <sys_id>2172121c97670910d872f9cfe153af3c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Artifact Path</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b111323787e689509bc4ddb83cbb359f_artifact_path_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:41:12</sys_updated_on>
         <url/>
@@ -3033,11 +2997,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:41:12</sys_created_on>
         <sys_id>2572121c97670910d872f9cfe153af36</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Artifact Name</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b111323787e689509bc4ddb83cbb359f_artifact_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:41:12</sys_updated_on>
         <url/>
@@ -3056,11 +3020,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-14 04:19:20</sys_created_on>
         <sys_id>7eca7948972bc510d872f9cfe153aff0</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Artifact Summary</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b111323787e689509bc4ddb83cbb359f_artifact_summary_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 04:19:20</sys_updated_on>
         <url/>
@@ -3079,11 +3043,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-04-06 08:29:42</sys_created_on>
         <sys_id>c4b783f3872a89509bc4ddb83cbb35bb</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Don't Treat as Error</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b111323787e689509bc4ddb83cbb359f___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-04-06 08:29:42</sys_updated_on>
         <url/>
@@ -3102,11 +3066,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:41:12</sys_created_on>
         <sys_id>e172121c97670910d872f9cfe153af4e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Package Type</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b111323787e689509bc4ddb83cbb359f_pkg_type_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:41:12</sys_updated_on>
         <url/>
@@ -3125,11 +3089,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:41:12</sys_created_on>
         <sys_id>e572121c97670910d872f9cfe153af5f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Top Severity</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b111323787e689509bc4ddb83cbb359f_top_severity_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:41:12</sys_updated_on>
         <url/>
@@ -3148,11 +3112,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:41:12</sys_created_on>
         <sys_id>e972121c97670910d872f9cfe153af59</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Number of Licenses</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b111323787e689509bc4ddb83cbb359f_num_licenses_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:41:12</sys_updated_on>
         <url/>
@@ -3171,11 +3135,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:41:12</sys_created_on>
         <sys_id>ed72121c97670910d872f9cfe153af53</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Number of Issues</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b111323787e689509bc4ddb83cbb359f_num_sec_issues_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:41:12</sys_updated_on>
         <url/>
@@ -3425,18 +3389,6 @@ This action will only return the artifact summary of ONE artifact.</description>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=115cf1c8972bc510d872f9cfe153af60"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>application</field>
-        <id>115cf1c8972bc510d872f9cfe153af60</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-05-14 04:26:03</sys_created_on>
-        <sys_id>915cf1c8972bc510d872f9cfe153af7c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-14 04:26:03</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>payload</field>
         <id>115cf1c8972bc510d872f9cfe153af60</id>
         <sys_created_by>admin</sys_created_by>
@@ -3447,18 +3399,6 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_updated_on>2022-05-14 04:26:03</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_115cf1c8972bc510d872f9cfe153af60</table>
         <value>{{step[348143f7-d99a-4b62-b8ad-683599adb8cd].response_body}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>115cf1c8972bc510d872f9cfe153af60</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-05-14 04:26:03</sys_created_on>
-        <sys_id>555cf1c8972bc510d872f9cfe153af7c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-14 04:26:03</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_step_ext_output_115cf1c8972bc510d872f9cfe153af60^id=115cf1c8972bc510d872f9cfe153af60"/>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7^id=115cf1c8972bc510d872f9cfe153af60"/>
@@ -4207,11 +4147,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:57:45</sys_created_on>
         <sys_id>333612dc97670910d872f9cfe153af0c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>top_severity</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_115cf1c8972bc510d872f9cfe153af60_top_severity_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:57:45</sys_updated_on>
         <url/>
@@ -4230,11 +4170,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:57:44</sys_created_on>
         <sys_id>3b36de9c97670910d872f9cfe153aff5</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>artifact_path</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_115cf1c8972bc510d872f9cfe153af60_artifact_path_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:57:44</sys_updated_on>
         <url/>
@@ -4253,11 +4193,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:57:45</sys_created_on>
         <sys_id>3f3612dc97670910d872f9cfe153af00</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>num_sec_issues</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_115cf1c8972bc510d872f9cfe153af60_num_sec_issues_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:57:45</sys_updated_on>
         <url/>
@@ -4276,11 +4216,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-14 04:26:02</sys_created_on>
         <sys_id>595cf1c8972bc510d872f9cfe153af72</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>errors</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_115cf1c8972bc510d872f9cfe153af60_errors_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 04:26:02</sys_updated_on>
         <url/>
@@ -4299,11 +4239,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-14 04:26:03</sys_created_on>
         <sys_id>595cf1c8972bc510d872f9cfe153af78</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>artifacts</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_115cf1c8972bc510d872f9cfe153af60_artifacts_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 04:26:03</sys_updated_on>
         <url/>
@@ -4322,11 +4262,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:57:44</sys_created_on>
         <sys_id>b336de9c97670910d872f9cfe153affb</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>pkg_type</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_115cf1c8972bc510d872f9cfe153af60_pkg_type_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:57:44</sys_updated_on>
         <url/>
@@ -4345,11 +4285,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:57:45</sys_created_on>
         <sys_id>b73612dc97670910d872f9cfe153af06</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>num_licenses</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_115cf1c8972bc510d872f9cfe153af60_num_licenses_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:57:45</sys_updated_on>
         <url/>
@@ -4368,11 +4308,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:57:44</sys_created_on>
         <sys_id>bf36de9c97670910d872f9cfe153afef</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>artifact_name</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_115cf1c8972bc510d872f9cfe153af60_artifact_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:57:44</sys_updated_on>
         <url/>
@@ -4463,18 +4403,6 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_updated_on>2022-04-06 08:35:58</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_3b190737872a89509bc4ddb83cbb35dd</table>
         <value>{{action.paths}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>3b190737872a89509bc4ddb83cbb35dd</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-05-15 00:57:44</sys_created_on>
-        <sys_id>6b36de9c97670910d872f9cfe153afbf</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-15 00:57:44</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_step_ext_output_3b190737872a89509bc4ddb83cbb35dd^id=3b190737872a89509bc4ddb83cbb35dd"/>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7^id=3b190737872a89509bc4ddb83cbb35dd"/>
@@ -4737,11 +4665,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-04-06 08:35:58</sys_created_on>
         <sys_id>bb190737872a89509bc4ddb83cbb35f4</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>payload</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_3b190737872a89509bc4ddb83cbb35dd_payload_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-04-06 08:35:58</sys_updated_on>
         <url/>
@@ -5166,11 +5094,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-04-06 08:35:58</sys_created_on>
         <sys_id>3f194737872a89509bc4ddb83cbb3508</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Credential Value</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_7b190737872a89509bc4ddb83cbb35fc_sn_auth_token_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-04-06 08:35:58</sys_updated_on>
         <url/>
@@ -6111,11 +6039,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-04-06 08:35:57</sys_created_on>
         <sys_id>3f190737872a89509bc4ddb83cbb35da</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>paths</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_2b190737872a89509bc4ddb83cbb35bb_paths_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-04-06 08:35:57</sys_updated_on>
         <url/>
@@ -6134,11 +6062,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-04-06 08:35:57</sys_created_on>
         <sys_id>b7190737872a89509bc4ddb83cbb35d4</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>checksums</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_2b190737872a89509bc4ddb83cbb35bb_checksums_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-04-06 08:35:57</sys_updated_on>
         <url/>
@@ -6158,11 +6086,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:57:45</sys_created_on>
         <sys_id>084612dc97670910d872f9cfe153af43</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Number of Licenses</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_2b190737872a89509bc4ddb83cbb35bb_num_licenses_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:57:45</sys_updated_on>
         <url/>
@@ -6181,11 +6109,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-14 04:26:03</sys_created_on>
         <sys_id>195cf1c8972bc510d872f9cfe153af88</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Artifact Summary</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_2b190737872a89509bc4ddb83cbb35bb_artifact_summary_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-14 04:26:03</sys_updated_on>
         <url/>
@@ -6204,11 +6132,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-04-06 08:35:58</sys_created_on>
         <sys_id>3b194737872a89509bc4ddb83cbb3528</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Don't Treat as Error</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_2b190737872a89509bc4ddb83cbb35bb___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-04-06 08:35:58</sys_updated_on>
         <url/>
@@ -6227,11 +6155,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:57:45</sys_created_on>
         <sys_id>3f3612dc97670910d872f9cfe153af2c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Artifact Name</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_2b190737872a89509bc4ddb83cbb35bb_artifact_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:57:45</sys_updated_on>
         <url/>
@@ -6250,11 +6178,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:57:45</sys_created_on>
         <sys_id>7f3612dc97670910d872f9cfe153af3d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Number of Issues</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_2b190737872a89509bc4ddb83cbb35bb_num_sec_issues_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:57:45</sys_updated_on>
         <url/>
@@ -6273,11 +6201,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:57:45</sys_created_on>
         <sys_id>b33612dc97670910d872f9cfe153af38</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Package Type</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_2b190737872a89509bc4ddb83cbb35bb_pkg_type_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:57:45</sys_updated_on>
         <url/>
@@ -6296,11 +6224,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:57:45</sys_created_on>
         <sys_id>c04612dc97670910d872f9cfe153af49</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Top Severity</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_2b190737872a89509bc4ddb83cbb35bb_top_severity_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:57:45</sys_updated_on>
         <url/>
@@ -6319,11 +6247,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-04-06 08:35:58</sys_created_on>
         <sys_id>f3194737872a89509bc4ddb83cbb351f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Status</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_2b190737872a89509bc4ddb83cbb35bb___action_status___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-04-06 08:35:58</sys_updated_on>
         <url/>
@@ -6342,11 +6270,11 @@ This action will only return the artifact summary of ONE artifact.</description>
         <sys_created_on>2022-05-15 00:57:45</sys_created_on>
         <sys_id>f73612dc97670910d872f9cfe153af32</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Artifact Path</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_2b190737872a89509bc4ddb83cbb35bb_artifact_path_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 00:57:45</sys_updated_on>
         <url/>

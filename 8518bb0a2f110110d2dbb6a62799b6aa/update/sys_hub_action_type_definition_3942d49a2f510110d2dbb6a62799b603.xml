@@ -27,7 +27,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3942d49a2f510110d2dbb6a62799b603</sys_id>
-        <sys_mod_count>83</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>JFrog Xray Create Ignore Rules</sys_name>
         <sys_overrides/>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
@@ -35,7 +35,7 @@
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_3942d49a2f510110d2dbb6a62799b603</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-15 05:34:48</sys_updated_on>
+        <sys_updated_on>2022-05-16 15:23:00</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -526,11 +526,11 @@
         <sys_created_on>2022-01-29 01:16:20</sys_created_on>
         <sys_id>f2f16cd62f910110d2dbb6a62799b619</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Credential Value</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_52f12cd62f910110d2dbb6a62799b6e9_sn_auth_token_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-29 01:16:20</sys_updated_on>
         <url/>
@@ -633,18 +633,6 @@
         <sys_updated_on>2022-05-15 05:07:28</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_6c53dc1e2f510110d2dbb6a62799b69e</table>
         <value>{{action.expiration_date}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>6c53dc1e2f510110d2dbb6a62799b69e</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-05-15 03:04:36</sys_created_on>
-        <sys_id>8e4376d497e70910d872f9cfe153af98</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-15 03:04:36</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>url</field>
@@ -919,11 +907,11 @@
         <sys_created_on>2022-01-29 00:12:18</sys_created_on>
         <sys_id>e453dc1e2f510110d2dbb6a62799b6c3</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>payload</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_6c53dc1e2f510110d2dbb6a62799b69e_payload_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-29 00:12:18</sys_updated_on>
         <url/>
@@ -1366,11 +1354,11 @@
         <sys_created_on>2022-05-15 05:06:24</sys_created_on>
         <sys_id>5e2fc790976b0910d872f9cfe153af62</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>expiration date</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_3942d49a2f510110d2dbb6a62799b603_expiration_date_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 05:06:24</sys_updated_on>
         <url/>
@@ -1389,11 +1377,11 @@
         <sys_created_on>2022-01-29 00:12:17</sys_created_on>
         <sys_id>a453dc1e2f510110d2dbb6a62799b69c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>cve</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_3942d49a2f510110d2dbb6a62799b603_cve_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-29 00:12:17</sys_updated_on>
         <url/>
@@ -1413,11 +1401,11 @@
         <sys_created_on>2022-01-29 01:16:21</sys_created_on>
         <sys_id>07f16cd62f910110d2dbb6a62799b654</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Don't Treat as Error</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_3942d49a2f510110d2dbb6a62799b603___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-29 01:16:21</sys_updated_on>
         <url/>
@@ -1436,11 +1424,11 @@
         <sys_created_on>2022-01-29 01:16:21</sys_created_on>
         <sys_id>4bf16cd62f910110d2dbb6a62799b64a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Status</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_3942d49a2f510110d2dbb6a62799b603___action_status___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-29 01:16:21</sys_updated_on>
         <url/>
@@ -1459,11 +1447,11 @@
         <sys_created_on>2022-01-29 01:18:11</sys_created_on>
         <sys_id>7562a01a2f910110d2dbb6a62799b6e6</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>ignore_rules_resp_status_code</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_3942d49a2f510110d2dbb6a62799b603_ignore_rules_resp_status_code_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-29 01:18:11</sys_updated_on>
         <url/>
@@ -1687,18 +1675,6 @@
         <sys_updated_on>2022-05-15 05:32:54</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_6472241a2f910110d2dbb6a62799b630</table>
         <value>{{action.expiration_date}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>6472241a2f910110d2dbb6a62799b630</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-05-15 03:10:01</sys_created_on>
-        <sys_id>d584b61897e70910d872f9cfe153af0a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-05-15 03:10:01</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>url</field>
@@ -1973,11 +1949,11 @@
         <sys_created_on>2022-01-29 01:18:22</sys_created_on>
         <sys_id>e872241a2f910110d2dbb6a62799b647</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>payload</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_6472241a2f910110d2dbb6a62799b630_payload_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-29 01:18:22</sys_updated_on>
         <url/>
@@ -2402,11 +2378,11 @@
         <sys_created_on>2022-01-29 01:18:23</sys_created_on>
         <sys_id>7c72241a2f910110d2dbb6a62799b661</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Credential Value</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_6c72241a2f910110d2dbb6a62799b655_sn_auth_token_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-29 01:18:23</sys_updated_on>
         <url/>
@@ -2849,11 +2825,11 @@
         <sys_created_on>2022-05-15 05:32:54</sys_created_on>
         <sys_id>62351f18976b0910d872f9cfe153afb8</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>expiration date</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_d872241a2f910110d2dbb6a62799b61e_expiration_date_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-05-15 05:32:54</sys_updated_on>
         <url/>
@@ -2872,11 +2848,11 @@
         <sys_created_on>2022-01-29 01:18:22</sys_created_on>
         <sys_id>6c72241a2f910110d2dbb6a62799b62d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>cve</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_d872241a2f910110d2dbb6a62799b61e_cve_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-29 01:18:22</sys_updated_on>
         <url/>
@@ -2896,11 +2872,11 @@
         <sys_created_on>2022-01-29 01:18:23</sys_created_on>
         <sys_id>3072241a2f910110d2dbb6a62799b69d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Status</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_d872241a2f910110d2dbb6a62799b61e___action_status___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-29 01:18:23</sys_updated_on>
         <url/>
@@ -2919,11 +2895,11 @@
         <sys_created_on>2022-01-29 01:18:23</sys_created_on>
         <sys_id>3472241a2f910110d2dbb6a62799b6a6</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Don't Treat as Error</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_d872241a2f910110d2dbb6a62799b61e___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-29 01:18:23</sys_updated_on>
         <url/>
@@ -2942,11 +2918,11 @@
         <sys_created_on>2022-01-29 01:18:24</sys_created_on>
         <sys_id>7472241a2f910110d2dbb6a62799b6ac</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>ignore_rules_resp_status_code</sys_name>
         <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
         <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_d872241a2f910110d2dbb6a62799b61e_ignore_rules_resp_status_code_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-29 01:18:24</sys_updated_on>
         <url/>
