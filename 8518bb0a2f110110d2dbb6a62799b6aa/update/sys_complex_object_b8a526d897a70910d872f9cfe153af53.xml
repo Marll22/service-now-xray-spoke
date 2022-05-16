@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDf4a526d843a7091070a9330c1e2d1553</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>8518bb0a2f110110d2dbb6a62799b6aa</scope_name>
+        <serialized_content>{"FlowDesigner:FDf4a526d843a7091070a9330c1e2d1553":{"name":"String","name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"name\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"56c3a11e-5f64-45a0-b1ca-765081824b7f\"}"},"resources":{"resources_child1":["Any"],"resources_child1.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"resource\",\"mandatory\":\"false\",\"child_name\":\"repositories\",\"uiUniqueId\":\"622436a2-f3c7-4480-9546-5ab0a4c00ebc\",\"uiTypeLabel\":\"Array.Object\",\"child_label\":\"repositories\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"0\",\"child_uiUniqueId\":\"812b40ef-a80a-437b-bcd8-9aa87584d0b3\"}"}},"resources.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"resources\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"1f5e8741-b8c0-4c06-86bc-69d17415a9a5\"}"}},"FlowDesigner:FDf4a526d843a7091070a9330c1e2d1553.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"violation_report\",\"mandatory\":\"false\",\"uiUniqueId\":\"d07fc4c8-5fc5-4e3e-b098-40372b95cc0f\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDf4a526d843a7091070a9330c1e2d1553\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-15 02:05:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b8a526d897a70910d872f9cfe153af53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDf4a526d843a7091070a9330c1e2d1553</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_update_name>sys_complex_object_b8a526d897a70910d872f9cfe153af53</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-15 02:05:00</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

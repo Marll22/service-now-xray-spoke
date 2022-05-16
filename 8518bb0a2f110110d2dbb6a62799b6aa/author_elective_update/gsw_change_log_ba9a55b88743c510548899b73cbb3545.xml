@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
+    <gsw_change_log action="DELETE">
+        <change_date>2022-04-21 13:22:44</change_date>
+        <changed_by display_value="Manas Das">c016962a87be4110548899b73cbb35d2</changed_by>
+        <content display_value="Enable the catalog item for developers to submit application ideas">08a3c57c0f782010310be3d1df767e76</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>manasd</sys_created_by>
+        <sys_created_on>2022-04-21 13:22:44</sys_created_on>
+        <sys_id>ba9a55b88743c510548899b73cbb3545</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2022-04-21 13:22:44</sys_name>
+        <sys_package display_value="JFrog Xray Spoke" source="x_737142_jfrog_x_0">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JFrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_update_name>gsw_change_log_ba9a55b88743c510548899b73cbb3545</sys_update_name>
+        <sys_updated_by>manasd</sys_updated_by>
+        <sys_updated_on>2022-04-21 13:22:44</sys_updated_on>
+        <type>4</type>
+    </gsw_change_log>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</application>
+        <file_path/>
+        <instance_id>667105dddb9689504d2bac44d4961987</instance_id>
+        <instance_name>xrayspokestaging</instance_name>
+        <name>gsw_change_log_ba9a55b88743c510548899b73cbb3545</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log"><gsw_change_log action="INSERT_OR_UPDATE"><change_date>2022-04-21 13:22:44</change_date><changed_by display_value="Manas Das">c016962a87be4110548899b73cbb35d2</changed_by><content display_value="Enable the catalog item for developers to submit application ideas">08a3c57c0f782010310be3d1df767e76</content><related_change_log_entry/><related_task_entry/><sys_class_name>gsw_change_log</sys_class_name><sys_created_by>manasd</sys_created_by><sys_created_on>2022-04-21 13:22:44</sys_created_on><sys_id>ba9a55b88743c510548899b73cbb3545</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2022-04-21 13:22:44</sys_name><sys_package display_value="JFrog Xray Spoke" source="x_737142_jfrog_x_0">8518bb0a2f110110d2dbb6a62799b6aa</sys_package><sys_policy/><sys_scope display_value="JFrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope><sys_update_name>gsw_change_log_ba9a55b88743c510548899b73cbb3545</sys_update_name><sys_updated_by>manasd</sys_updated_by><sys_updated_on>2022-04-21 13:22:44</sys_updated_on><type>4</type></gsw_change_log></record_update>]]></payload>
+        <payload_hash>1232257336</payload_hash>
+        <record_name>2022-04-21 13:22:44</record_name>
+        <reverted_from/>
+        <source>f5d4a365979b0110d872f9cfe153afff</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-06 17:38:01</sys_created_on>
+        <sys_id>e0e4a765979b0110d872f9cfe153af8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1809a732f1e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-06 17:38:01</sys_updated_on>
+        <type>Guided Setup Change Log</type>
+        <update_guid>a0e4a765099b01108221d52d101fd08c</update_guid>
+        <update_guid_history>a0e4a765099b01108221d52d101fd08c:1232257336</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="2022-04-21 06:22:44">58f1919397534510f927f0cfe153af07</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ben.ennis</sys_created_by>
+        <sys_created_on>2022-05-11 17:25:24</sys_created_on>
+        <sys_db_object display_value="" name="gsw_change_log">gsw_change_log</sys_db_object>
+        <sys_id>b6f73310c49e444b89770bb621580eb1</sys_id>
+        <sys_metadata>ba9a55b88743c510548899b73cbb3545</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2022-04-21 13:22:44</sys_name>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>gsw_change_log_ba9a55b88743c510548899b73cbb3545</sys_update_name>
+        <sys_update_version display_value="gsw_change_log_ba9a55b88743c510548899b73cbb3545">e0e4a765979b0110d872f9cfe153af8c</sys_update_version>
+        <sys_updated_by>ben.ennis</sys_updated_by>
+        <sys_updated_on>2022-05-11 17:25:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

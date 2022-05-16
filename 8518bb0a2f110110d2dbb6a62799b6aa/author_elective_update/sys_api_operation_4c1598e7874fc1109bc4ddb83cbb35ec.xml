@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_api_operation">
+    <sys_api_operation action="DELETE">
+        <active>true</active>
+        <api_collection display_value="Rest trigger for flow id=b5135c67874fc1109bc4ddb83cbb3540 - v1">ff0598e7874fc1109bc4ddb83cbb35e8</api_collection>
+        <api_request display_value="Generated Request for b5135c67874fc1109bc4ddb83cbb3540">b196d46b2e4fc1106a3bb1212e80f1a8</api_request>
+        <api_security_scheme/>
+        <deprecated>false</deprecated>
+        <description/>
+        <execute_asynchronously>true</execute_asynchronously>
+        <execution_record>b5135c67874fc1109bc4ddb83cbb3540</execution_record>
+        <execution_type>sys_hub_flow</execution_type>
+        <http_method>post</http_method>
+        <name>POST /</name>
+        <operation_id/>
+        <origin>flow_designer</origin>
+        <path>/</path>
+        <sys_class_name>sys_api_operation</sys_class_name>
+        <sys_created_by>sushruta</sys_created_by>
+        <sys_created_on>2022-04-29 21:22:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4c1598e7874fc1109bc4ddb83cbb35ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>POST /</sys_name>
+        <sys_package display_value="JFrog Xray Spoke" source="x_737142_jfrog_x_0">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JFrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_update_name>sys_api_operation_4c1598e7874fc1109bc4ddb83cbb35ec</sys_update_name>
+        <sys_updated_by>sushruta</sys_updated_by>
+        <sys_updated_on>2022-04-29 21:28:53</sys_updated_on>
+    </sys_api_operation>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</application>
+        <file_path/>
+        <instance_id>667105dddb9689504d2bac44d4961987</instance_id>
+        <instance_name>xrayspokestaging</instance_name>
+        <name>sys_api_operation_4c1598e7874fc1109bc4ddb83cbb35ec</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_api_operation"><sys_api_operation action="INSERT_OR_UPDATE"><active>true</active><api_collection display_value="Rest trigger for flow id=b5135c67874fc1109bc4ddb83cbb3540 - v1">ff0598e7874fc1109bc4ddb83cbb35e8</api_collection><api_request display_value="Generated Request for b5135c67874fc1109bc4ddb83cbb3540">b196d46b2e4fc1106a3bb1212e80f1a8</api_request><api_security_scheme/><deprecated>false</deprecated><description/><execute_asynchronously>true</execute_asynchronously><execution_record>b5135c67874fc1109bc4ddb83cbb3540</execution_record><execution_type>sys_hub_flow</execution_type><http_method>post</http_method><name>POST /</name><operation_id/><origin>flow_designer</origin><path>/</path><sys_class_name>sys_api_operation</sys_class_name><sys_created_by>sushruta</sys_created_by><sys_created_on>2022-04-29 21:22:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4c1598e7874fc1109bc4ddb83cbb35ec</sys_id><sys_mod_count>0</sys_mod_count><sys_name>POST /</sys_name><sys_package display_value="JFrog Xray Spoke" source="x_737142_jfrog_x_0">8518bb0a2f110110d2dbb6a62799b6aa</sys_package><sys_policy/><sys_scope display_value="JFrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope><sys_update_name>sys_api_operation_4c1598e7874fc1109bc4ddb83cbb35ec</sys_update_name><sys_updated_by>sushruta</sys_updated_by><sys_updated_on>2022-04-29 21:28:53</sys_updated_on></sys_api_operation></record_update>]]></payload>
+        <payload_hash>1388200086</payload_hash>
+        <record_name>POST /</record_name>
+        <reverted_from/>
+        <source>f5d4a365979b0110d872f9cfe153afff</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-06 17:38:02</sys_created_on>
+        <sys_id>6ce4a765979b0110d872f9cfe153afd5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1809a73314c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-06 17:38:02</sys_updated_on>
+        <type>API Operation</type>
+        <update_guid>2ce4a765289b0110c9f77472e6f869d5</update_guid>
+        <update_guid_history>2ce4a765289b0110c9f77472e6f869d5:1388200086</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ben.ennis</sys_created_by>
+        <sys_created_on>2022-05-11 17:24:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_api_operation">sys_api_operation</sys_db_object>
+        <sys_id>2dd0623d6cdd4d768b089cf1559409a4</sys_id>
+        <sys_metadata>4c1598e7874fc1109bc4ddb83cbb35ec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>POST /</sys_name>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_api_operation_4c1598e7874fc1109bc4ddb83cbb35ec</sys_update_name>
+        <sys_update_version display_value="sys_api_operation_4c1598e7874fc1109bc4ddb83cbb35ec">6ce4a765979b0110d872f9cfe153afd5</sys_update_version>
+        <sys_updated_by>ben.ennis</sys_updated_by>
+        <sys_updated_on>2022-05-11 17:24:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

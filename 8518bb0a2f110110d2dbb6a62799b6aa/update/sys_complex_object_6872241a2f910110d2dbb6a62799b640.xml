@@ -14,9 +14,9 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>FDa472241a82910110408f2a4a880c4940</sys_name>
         <sys_overrides/>
-        <sys_package display_value="JFrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
         <sys_policy/>
-        <sys_scope display_value="JFrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
         <sys_update_name>sys_complex_object_6872241a2f910110d2dbb6a62799b640</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-29 01:18:22</sys_updated_on>

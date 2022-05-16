@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="DELETE">
+        <label/>
+        <name>FDfefe27c3fb43c1108ccaa5530e67cb43</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>8518bb0a2f110110d2dbb6a62799b6aa</scope_name>
+        <serialized_content>{"FlowDesigner:FDfefe27c3fb43c1108ccaa5530e67cb43":{},"FlowDesigner:FDfefe27c3fb43c1108ccaa5530e67cb43.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Violation Report\",\"mandatory\":\"true\",\"uiUniqueId\":\"2560b40d-8187-4c78-9e6e-f8bef17afe6b\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDfefe27c3fb43c1108ccaa5530e67cb43\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>sushruta</sys_created_by>
+        <sys_created_on>2022-04-28 23:57:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b2fe27c38743c1109bc4ddb83cbb3544</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDfefe27c3fb43c1108ccaa5530e67cb43</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="JFrog Xray Spoke" source="x_737142_jfrog_x_0">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JFrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_update_name>sys_complex_object_b2fe27c38743c1109bc4ddb83cbb3544</sys_update_name>
+        <sys_updated_by>sushruta</sys_updated_by>
+        <sys_updated_on>2022-04-28 23:57:20</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</application>
+        <file_path/>
+        <instance_id>667105dddb9689504d2bac44d4961987</instance_id>
+        <instance_name>xrayspokestaging</instance_name>
+        <name>sys_complex_object_b2fe27c38743c1109bc4ddb83cbb3544</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object"><sys_complex_object action="INSERT_OR_UPDATE"><label/><name>FDfefe27c3fb43c1108ccaa5530e67cb43</name><namespace>FlowDesigner</namespace><scope_name>8518bb0a2f110110d2dbb6a62799b6aa</scope_name><serialized_content>{"FlowDesigner:FDfefe27c3fb43c1108ccaa5530e67cb43":{},"FlowDesigner:FDfefe27c3fb43c1108ccaa5530e67cb43.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Violation Report\",\"mandatory\":\"true\",\"uiUniqueId\":\"2560b40d-8187-4c78-9e6e-f8bef17afe6b\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDfefe27c3fb43c1108ccaa5530e67cb43\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content><sys_class_name>sys_complex_object</sys_class_name><sys_created_by>sushruta</sys_created_by><sys_created_on>2022-04-28 23:57:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b2fe27c38743c1109bc4ddb83cbb3544</sys_id><sys_mod_count>0</sys_mod_count><sys_name>FDfefe27c3fb43c1108ccaa5530e67cb43</sys_name><sys_overrides/><sys_package display_value="JFrog Xray Spoke" source="x_737142_jfrog_x_0">8518bb0a2f110110d2dbb6a62799b6aa</sys_package><sys_policy/><sys_scope display_value="JFrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope><sys_update_name>sys_complex_object_b2fe27c38743c1109bc4ddb83cbb3544</sys_update_name><sys_updated_by>sushruta</sys_updated_by><sys_updated_on>2022-04-28 23:57:20</sys_updated_on><type>complex_object_schema</type></sys_complex_object></record_update>]]></payload>
+        <payload_hash>-1594619245</payload_hash>
+        <record_name>FDfefe27c3fb43c1108ccaa5530e67cb43</record_name>
+        <reverted_from/>
+        <source>f5d4a365979b0110d872f9cfe153afff</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-06 17:38:13</sys_created_on>
+        <sys_id>23e4eb65979b0110d872f9cfe153af7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1809a735e610000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-06 17:38:13</sys_updated_on>
+        <type>Complex Object</type>
+        <update_guid>efe4eb65199b01105d85f8cbe32d227e</update_guid>
+        <update_guid_history>efe4eb65199b01105d85f8cbe32d227e:-1594619245</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ben.ennis</sys_created_by>
+        <sys_created_on>2022-05-11 17:25:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_complex_object">sys_complex_object</sys_db_object>
+        <sys_id>04af53ba22bd47ce87e2cdb071c39c89</sys_id>
+        <sys_metadata>b2fe27c38743c1109bc4ddb83cbb3544</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDfefe27c3fb43c1108ccaa5530e67cb43</sys_name>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_complex_object_b2fe27c38743c1109bc4ddb83cbb3544</sys_update_name>
+        <sys_update_version display_value="sys_complex_object_b2fe27c38743c1109bc4ddb83cbb3544">23e4eb65979b0110d872f9cfe153af7f</sys_update_version>
+        <sys_updated_by>ben.ennis</sys_updated_by>
+        <sys_updated_on>2022-05-11 17:25:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
