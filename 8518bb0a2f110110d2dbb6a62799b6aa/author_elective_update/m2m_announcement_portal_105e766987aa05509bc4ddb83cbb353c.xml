@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_announcement_portal">
+    <m2m_announcement_portal action="DELETE">
+        <announcement display_value="Alert : Appsec Daily Data Collection">145e766987aa05509bc4ddb83cbb353a</announcement>
+        <order>100</order>
+        <sp_portal display_value="Instance Security Center">bebfa187536a1300a699ddeeff7b1223</sp_portal>
+        <sys_class_name>m2m_announcement_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 08:02:26</sys_created_on>
+        <sys_id>105e766987aa05509bc4ddb83cbb353c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alert : Appsec Daily Data Collection.Instance Security Center</sys_name>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_update_name>m2m_announcement_portal_105e766987aa05509bc4ddb83cbb353c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 08:02:26</sys_updated_on>
+    </m2m_announcement_portal>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="JFrog Xray">8518bb0a2f110110d2dbb6a62799b6aa</application>
+        <file_path/>
+        <instance_id>667105dddb9689504d2bac44d4961987</instance_id>
+        <instance_name>xrayspokestaging</instance_name>
+        <name>m2m_announcement_portal_105e766987aa05509bc4ddb83cbb353c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_announcement_portal">
+    <m2m_announcement_portal action="INSERT_OR_UPDATE">
+        <announcement display_value="Alert : Appsec Daily Data Collection">145e766987aa05509bc4ddb83cbb353a</announcement>
+        <order>100</order>
+        <sp_portal display_value="Instance Security Center">bebfa187536a1300a699ddeeff7b1223</sp_portal>
+        <sys_class_name>m2m_announcement_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 08:02:26</sys_created_on>
+        <sys_id>105e766987aa05509bc4ddb83cbb353c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alert : Appsec Daily Data Collection.Instance Security Center</sys_name>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_update_name>m2m_announcement_portal_105e766987aa05509bc4ddb83cbb353c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 08:02:26</sys_updated_on>
+    </m2m_announcement_portal>
+</record_update>]]></payload>
+        <payload_hash>-955324641</payload_hash>
+        <record_name>Alert : Appsec Daily Data Collection.Instance Security Center</record_name>
+        <reverted_from/>
+        <source>64a5aa7497ef4910d872f9cfe153afbb</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 15:21:57</sys_created_on>
+        <sys_id>bca5aa7497ef4910d872f9cfe153afef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180cd7632c70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 15:21:57</sys_updated_on>
+        <type>Portal Announcements</type>
+        <update_guid>f8a5aa7449ef49104b6853d036ac71ef</update_guid>
+        <update_guid_history>f8a5aa7449ef49104b6853d036ac71ef:0,bfbf9e74feaf49106253b94a2ffdf473:1682271713,e1ecdc4c02e3c510783081a43bfd1dfa:0,eca1d5df4d134510209fee6881ef91e3:-1804218329,24e4a7654f9b0110b13e2fa2e92bffaf:-779585997</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Alert : Appsec Daily Data Collection.Instance Security Center">1f01826d97230d10d872f9cfe153af3e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-18 20:37:32</sys_created_on>
+        <sys_db_object display_value="" name="m2m_announcement_portal">m2m_announcement_portal</sys_db_object>
+        <sys_id>0ca6bedf16f842c0811cf362e07e6400</sys_id>
+        <sys_metadata>105e766987aa05509bc4ddb83cbb353c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alert : Appsec Daily Data Collection.Instance Security Center</sys_name>
+        <sys_package display_value="JFrog Xray" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="JFrog Xray">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_scope_delete display_value="">03017db5537a41e08009141b04113031</sys_scope_delete>
+        <sys_update_name>m2m_announcement_portal_105e766987aa05509bc4ddb83cbb353c</sys_update_name>
+        <sys_update_version display_value="m2m_announcement_portal_105e766987aa05509bc4ddb83cbb353c">bca5aa7497ef4910d872f9cfe153afef</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-18 20:37:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

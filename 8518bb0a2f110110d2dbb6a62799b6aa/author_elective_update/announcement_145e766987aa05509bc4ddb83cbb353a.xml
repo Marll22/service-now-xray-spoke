@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
+    <announcement action="DELETE">
+        <active>false</active>
+        <click_target>urlNew</click_target>
+        <details/>
+        <details_link_text>[PA AppSec] Daily Data Collection</details_link_text>
+        <details_page/>
+        <details_url>/sysauto_pa.do?sys_id=a3e006e0b3301300e64be12b86a8dc67</details_url>
+        <dismiss_options>session_dismissible</dismiss_options>
+        <display_first>false</display_first>
+        <display_style display_value="La Jolla Urgent">7f8fe758c31023002ff2554d81d3ae99</display_style>
+        <from>2022-03-30 08:02:26</from>
+        <glyph>info-circle</glyph>
+        <glyph_alt_text/>
+        <name>Alert : Appsec Daily Data Collection</name>
+        <public>false</public>
+        <roles>admin</roles>
+        <show_for_unauthenticated_users_only>false</show_for_unauthenticated_users_only>
+        <summary>Please assign unlock Run As user or assign valid user.</summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 08:02:26</sys_created_on>
+        <sys_id>145e766987aa05509bc4ddb83cbb353a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alert : Appsec Daily Data Collection</sys_name>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_update_name>announcement_145e766987aa05509bc4ddb83cbb353a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 08:02:26</sys_updated_on>
+        <title>Invalid Run As User</title>
+        <to/>
+        <type>67eaf134e7a3320075c2a117c2f6a9d2,52fa79f8e763320075c2a117c2f6a991</type>
+    </announcement>
+    <sys_translated_text action="DELETE" query="documentkey=145e766987aa05509bc4ddb83cbb353a"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="JFrog Xray">8518bb0a2f110110d2dbb6a62799b6aa</application>
+        <file_path/>
+        <instance_id>667105dddb9689504d2bac44d4961987</instance_id>
+        <instance_name>xrayspokestaging</instance_name>
+        <name>announcement_145e766987aa05509bc4ddb83cbb353a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
+    <announcement action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <click_target>urlNew</click_target>
+        <details/>
+        <details_link_text>[PA AppSec] Daily Data Collection</details_link_text>
+        <details_page/>
+        <details_url>/sysauto_pa.do?sys_id=a3e006e0b3301300e64be12b86a8dc67</details_url>
+        <dismiss_options>session_dismissible</dismiss_options>
+        <display_first>false</display_first>
+        <display_style display_value="La Jolla Urgent">7f8fe758c31023002ff2554d81d3ae99</display_style>
+        <from>2022-03-30 08:02:26</from>
+        <glyph>info-circle</glyph>
+        <glyph_alt_text/>
+        <name>Alert : Appsec Daily Data Collection</name>
+        <public>false</public>
+        <roles>admin</roles>
+        <show_for_unauthenticated_users_only>false</show_for_unauthenticated_users_only>
+        <summary>Please assign unlock Run As user or assign valid user.</summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 08:02:26</sys_created_on>
+        <sys_id>145e766987aa05509bc4ddb83cbb353a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alert : Appsec Daily Data Collection</sys_name>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_update_name>announcement_145e766987aa05509bc4ddb83cbb353a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 08:02:26</sys_updated_on>
+        <title>Invalid Run As User</title>
+        <to/>
+        <type>67eaf134e7a3320075c2a117c2f6a9d2,52fa79f8e763320075c2a117c2f6a991</type>
+    </announcement>
+    <sys_translated_text action="delete_multiple" query="documentkey=145e766987aa05509bc4ddb83cbb353a"/>
+</record_update>]]></payload>
+        <payload_hash>1724682866</payload_hash>
+        <record_name>Alert : Appsec Daily Data Collection</record_name>
+        <reverted_from/>
+        <source>64a5aa7497ef4910d872f9cfe153afbb</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 15:21:57</sys_created_on>
+        <sys_id>7ca5aa7497ef4910d872f9cfe153afe3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180cd7632310000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 15:21:57</sys_updated_on>
+        <type>Announcement</type>
+        <update_guid>b8a5aa7493ef4910135bda75fc4a0de3</update_guid>
+        <update_guid_history>b8a5aa7493ef4910135bda75fc4a0de3:0,c1cf92b422af49109239e0022631875c:1228632712,a9ecdc4c16e3c510ad88a716c9f195e1:0,89a119df7313451057a1aca08dd57fe7:-1649828176,24e4a765d89b0110081187f20854dc7b:-44539814</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Alert : Appsec Daily Data Collection">1701066d97230d10d872f9cfe153af76</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-18 20:37:32</sys_created_on>
+        <sys_db_object display_value="Announcement" name="announcement">announcement</sys_db_object>
+        <sys_id>5ef9241360564526bc59e971a8197cd1</sys_id>
+        <sys_metadata>145e766987aa05509bc4ddb83cbb353a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Alert : Appsec Daily Data Collection</sys_name>
+        <sys_package display_value="JFrog Xray" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="JFrog Xray">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_scope_delete display_value="">03017db5537a41e08009141b04113031</sys_scope_delete>
+        <sys_update_name>announcement_145e766987aa05509bc4ddb83cbb353a</sys_update_name>
+        <sys_update_version display_value="announcement_145e766987aa05509bc4ddb83cbb353a">7ca5aa7497ef4910d872f9cfe153afe3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-18 20:37:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

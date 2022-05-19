@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="DELETE">
+        <category>general</category>
+        <client_script><![CDATA[function confirmURL(event){ 
+  if(event){
+    event.preventDefault();
+  }
+  var confirmMessage = 'Are you sure you want to be redirected to partner-support@jfrog.com?';
+  var userConfirmed = confirm(confirmMessage);
+
+  if (userConfirmed){
+    window.open("https://jfrog.com/support/");
+  }
+}]]></client_script>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_jfro_xray_spoke_.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	<div style="text-align: left; " class="container"> 
+	  <h1> Contact JFrog Support </h1>
+	  <h4>
+		Need help? Please reach out to us!
+	  </h4>
+	  <span>Email</span>: <a href="mailto:partner-support@jfrog.com" target="_blank">partner-support@jfrog.com</a>
+	  <div/>
+		<span>Phone</span>: <a href="tel:+1-408-329-1540">+1 (408) 329-1540</a>
+	  <div/>
+	  <br />
+	  <button class="btn confirm" onClick="confirmURL();" style="padding: 15px 20px; background-color:#40be46; border: 0px; color: white;">
+		JFrog Support
+	  </button>
+	</div>
+</j:jelly>]]></html>
+        <name/>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>mritunjayk</sys_created_by>
+        <sys_created_on>2022-05-18 18:55:41</sys_created_on>
+        <sys_id>e6a5a92597efc910d872f9cfe153afc0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="JFrog Xray" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JFrog Xray">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_update_name>sys_ui_page_e6a5a92597efc910d872f9cfe153afc0</sys_update_name>
+        <sys_updated_by>mritunjayk</sys_updated_by>
+        <sys_updated_on>2022-05-18 18:55:41</sys_updated_on>
+    </sys_ui_page>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="JFrog Xray">8518bb0a2f110110d2dbb6a62799b6aa</application>
+        <file_path/>
+        <instance_id>667105dddb9689504d2bac44d4961987</instance_id>
+        <instance_name>xrayspokestaging</instance_name>
+        <name>sys_ui_page_e6a5a92597efc910d872f9cfe153afc0</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_page"&gt;&lt;sys_ui_page action="INSERT_OR_UPDATE"&gt;&lt;category&gt;general&lt;/category&gt;&lt;client_script&gt;&lt;![CDATA[function confirmURL(event){ 
+  if(event){
+    event.preventDefault();
+  }
+  var confirmMessage = 'Are you sure you want to be redirected to partner-support@jfrog.com?';
+  var userConfirmed = confirm(confirmMessage);
+
+  if (userConfirmed){
+    window.open("https://jfrog.com/support/");
+  }
+}]]&gt;&lt;/client_script&gt;&lt;description/&gt;&lt;direct&gt;false&lt;/direct&gt;&lt;endpoint&gt;x_jfro_xray_spoke_.do&lt;/endpoint&gt;&lt;html&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="utf-8" ?&gt;
+&lt;j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null"&gt;
+	&lt;div style="text-align: left; " class="container"&gt; 
+	  &lt;h1&gt; Contact JFrog Support &lt;/h1&gt;
+	  &lt;h4&gt;
+		Need help? Please reach out to us!
+	  &lt;/h4&gt;
+	  &lt;span&gt;Email&lt;/span&gt;: &lt;a href="mailto:partner-support@jfrog.com" target="_blank"&gt;partner-support@jfrog.com&lt;/a&gt;
+	  &lt;div/&gt;
+		&lt;span&gt;Phone&lt;/span&gt;: &lt;a href="tel:+1-408-329-1540"&gt;+1 (408) 329-1540&lt;/a&gt;
+	  &lt;div/&gt;
+	  &lt;br /&gt;
+	  &lt;button class="btn confirm" onClick="confirmURL();" style="padding: 15px 20px; background-color:#40be46; border: 0px; color: white;"&gt;
+		JFrog Support
+	  &lt;/button&gt;
+	&lt;/div&gt;
+&lt;/j:jelly&gt;]]&gt;&lt;/html&gt;&lt;name/&gt;&lt;processing_script/&gt;&lt;sys_class_name&gt;sys_ui_page&lt;/sys_class_name&gt;&lt;sys_created_by&gt;mritunjayk&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-05-18 18:55:41&lt;/sys_created_on&gt;&lt;sys_id&gt;e6a5a92597efc910d872f9cfe153afc0&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="JFrog Xray" source="x_jfro_xray_spoke"&gt;8518bb0a2f110110d2dbb6a62799b6aa&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="JFrog Xray"&gt;8518bb0a2f110110d2dbb6a62799b6aa&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_page_e6a5a92597efc910d872f9cfe153afc0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;mritunjayk&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-05-18 18:55:41&lt;/sys_updated_on&gt;&lt;/sys_ui_page&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>865452750</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>737eb2b097638910d872f9cfe153afc0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mritunjayk</sys_created_by>
+        <sys_created_on>2022-05-18 18:55:41</sys_created_on>
+        <sys_id>13b96d2997efc910d872f9cfe153af7f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180d8869a690000001</sys_recorded_at>
+        <sys_updated_by>mritunjayk</sys_updated_by>
+        <sys_updated_on>2022-05-18 18:55:41</sys_updated_on>
+        <type>UI Page</type>
+        <update_guid>5bb96d2939efc910af7a7189d5e40b7e</update_guid>
+        <update_guid_history>5bb96d2939efc910af7a7189d5e40b7e:865452750</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mritunjayk</sys_created_by>
+        <sys_created_on>2022-05-18 20:36:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_page">sys_ui_page</sys_db_object>
+        <sys_id>746f94a7def3428090dde410dcbad100</sys_id>
+        <sys_metadata>e6a5a92597efc910d872f9cfe153afc0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="JFrog Xray" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="JFrog Xray">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_scope_delete display_value="">03017db5537a41e08009141b04113031</sys_scope_delete>
+        <sys_update_name>sys_ui_page_e6a5a92597efc910d872f9cfe153afc0</sys_update_name>
+        <sys_update_version display_value="sys_ui_page_e6a5a92597efc910d872f9cfe153afc0">13b96d2997efc910d872f9cfe153af7f</sys_update_version>
+        <sys_updated_by>mritunjayk</sys_updated_by>
+        <sys_updated_on>2022-05-18 20:36:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

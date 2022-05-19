@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Myhomepage</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-07 22:27:41</sys_created_on>
+        <sys_id>7ec767de874281109bc4ddb83cbb3593</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Myhomepage</sys_name>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_update_name>sys_ui_view_7ec767de874281109bc4ddb83cbb3593</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-07 22:27:41</sys_updated_on>
+        <title>Myhomepage</title>
+        <user/>
+    </sys_ui_view>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="JFrog Xray">8518bb0a2f110110d2dbb6a62799b6aa</application>
+        <file_path/>
+        <instance_id>667105dddb9689504d2bac44d4961987</instance_id>
+        <instance_name>xrayspokestaging</instance_name>
+        <name>sys_ui_view_7ec767de874281109bc4ddb83cbb3593</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Myhomepage</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-07 22:27:41</sys_created_on>
+        <sys_id>7ec767de874281109bc4ddb83cbb3593</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Myhomepage</sys_name>
+        <sys_package display_value="Jfrog Xray Spoke" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_update_name>sys_ui_view_7ec767de874281109bc4ddb83cbb3593</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-07 22:27:41</sys_updated_on>
+        <title>Myhomepage</title>
+        <user/>
+    </sys_ui_view>
+</record_update>]]></payload>
+        <payload_hash>-1448719384</payload_hash>
+        <record_name>Myhomepage</record_name>
+        <reverted_from/>
+        <source>64a5aa7497ef4910d872f9cfe153afbb</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-16 15:21:56</sys_created_on>
+        <sys_id>34a5aa7497ef4910d872f9cfe153afde</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180cd7631f20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-16 15:21:56</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>70a5aa740cef49101a3a8e5f90c066de</update_guid>
+        <update_guid_history>70a5aa740cef49101a3a8e5f90c066de:0,ba80ae7cf3af491032f7957229f71fc0:-143800404,f6d15553e25345106931a0710ab67932:-376188958,d0e4a7653d9b0110ec56ec91e1080577:485604974</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-18 20:34:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>215fc4c1b95644d0862632cae532ab44</sys_id>
+        <sys_metadata>7ec767de874281109bc4ddb83cbb3593</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Myhomepage</sys_name>
+        <sys_package display_value="JFrog Xray" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="JFrog Xray">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_scope_delete display_value="">03017db5537a41e08009141b04113031</sys_scope_delete>
+        <sys_update_name>sys_ui_view_7ec767de874281109bc4ddb83cbb3593</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_7ec767de874281109bc4ddb83cbb3593">34a5aa7497ef4910d872f9cfe153afde</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-18 20:34:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
