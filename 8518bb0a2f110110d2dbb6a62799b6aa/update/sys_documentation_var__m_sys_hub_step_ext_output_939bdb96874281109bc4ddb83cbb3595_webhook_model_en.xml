@@ -14,9 +14,9 @@
             <sys_id>3b9bdb96874281109bc4ddb83cbb35f2</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_name>webhook_model</sys_name>
-            <sys_package display_value="Jfrog Xray Spoke" source="x_jfrog_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+            <sys_package display_value="JFrog Xray" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
             <sys_policy/>
-            <sys_scope display_value="Jfrog Xray Spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+            <sys_scope display_value="JFrog Xray">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
             <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_939bdb96874281109bc4ddb83cbb3595_webhook_model_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2022-04-07 04:00:09</sys_updated_on>

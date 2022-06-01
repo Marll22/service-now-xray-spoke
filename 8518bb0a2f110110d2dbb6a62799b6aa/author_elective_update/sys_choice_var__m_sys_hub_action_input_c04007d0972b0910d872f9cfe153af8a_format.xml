@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="format" table="var__m_sys_hub_action_input_c04007d0972b0910d872f9cfe153af8a" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>format</element>
+            <name>var__m_sys_hub_action_input_c04007d0972b0910d872f9cfe153af8a</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-16 15:22:44</sys_created_on>
+            <sys_id>1cd522f497ef4910d872f9cfe153af46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>format</sys_name>
+            <sys_package display_value="JFrog Xray" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="JFrog Xray">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+            <sys_update_name>sys_choice_var__m_sys_hub_action_input_c04007d0972b0910d872f9cfe153af8a_format</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-16 15:22:44</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PDF</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_c04007d0972b0910d872f9cfe153af8a</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-15 04:01:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>004007d0972b0910d872f9cfe153afa4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-15 04:01:16</sys_updated_on>
+            <value>pdf</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JSON</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_c04007d0972b0910d872f9cfe153af8a</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-15 04:01:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c84007d0972b0910d872f9cfe153afa4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-15 04:01:16</sys_updated_on>
+            <value>json</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>format</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CSV</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_c04007d0972b0910d872f9cfe153af8a</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-15 04:01:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>844007d0972b0910d872f9cfe153afa5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-15 04:01:16</sys_updated_on>
+            <value>csv</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

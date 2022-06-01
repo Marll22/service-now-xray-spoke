@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDef64dd150de3c91077dd7eb44c281c88</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>8518bb0a2f110110d2dbb6a62799b6aa</scope_name>
+        <serialized_content>{"FlowDesigner:FDef64dd150de3c91077dd7eb44c281c88":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDef64dd150de3c91077dd7eb44c281c88.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"groups\",\"mandatory\":\"false\",\"child_name\":\"group\",\"uiUniqueId\":\"50654ee1-6496-4755-8cfa-4ad2f369cc11\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FDef64dd150de3c91077dd7eb44c281c88\",\"child_label\":\"group\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"17\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"5b48c457-090c-4b54-aa0e-5a5f9b3601c1\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>manasd</sys_created_by>
+        <sys_created_on>2022-05-17 22:44:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a364dd1597e3c910d872f9cfe153af89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDef64dd150de3c91077dd7eb44c281c88</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="JFrog Xray" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JFrog Xray">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_update_name>sys_complex_object_a364dd1597e3c910d872f9cfe153af89</sys_update_name>
+        <sys_updated_by>manasd</sys_updated_by>
+        <sys_updated_on>2022-05-17 22:44:06</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

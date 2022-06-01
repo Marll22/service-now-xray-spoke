@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script><![CDATA[function confirmURL(event){ 
+  if(event){
+    event.preventDefault();
+  }
+  var confirmMessage = 'Are you sure you want to be redirected to partner-support@jfrog.com?';
+  var userConfirmed = confirm(confirmMessage);
+
+  if (userConfirmed){
+	var newWnd = window.open('https://jfrog.com/support/');
+	newWnd.opener = null;
+	window.history.back();
+  }
+}]]></client_script>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_jfro_xray_spoke_Support.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	<div style="text-align: left; " class="container"> 
+	  <h1> Contact JFrog Support </h1>
+	  <h4>
+		Need help? Please reach out to us!
+	  </h4>
+	  <span>Email</span>: <a href="mailto:partner-support@jfrog.com" target="_blank">partner-support@jfrog.com</a>
+	  <div/>
+		<span>Phone</span>: <a href="tel:+1-408-329-1540">+1 (408) 329-1540</a>
+	  <div/> 
+	  <button class="btn confirm" onClick="confirmURL();" style="padding: 15px 20px; background-color:#40be46; border: 0px; color: white;">
+		JFrog Support
+	  </button>
+	</div>
+</j:jelly>]]></html>
+        <name>Support</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-19 02:40:27</sys_created_on>
+        <sys_id>a912d7a997270d10d872f9cfe153af69</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Support</sys_name>
+        <sys_package display_value="JFrog Xray" source="x_jfro_xray_spoke">8518bb0a2f110110d2dbb6a62799b6aa</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="JFrog Xray">8518bb0a2f110110d2dbb6a62799b6aa</sys_scope>
+        <sys_update_name>sys_ui_page_a912d7a997270d10d872f9cfe153af69</sys_update_name>
+        <sys_updated_by>mritunjayk</sys_updated_by>
+        <sys_updated_on>2022-05-20 17:49:08</sys_updated_on>
+    </sys_ui_page>
+</record_update>
